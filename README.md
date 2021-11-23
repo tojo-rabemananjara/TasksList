@@ -7,4 +7,4 @@ A simple web application that allows a user to create and manage tasks. Function
 * CSS
 * JS
 ## Launch
-Go to `https://618a91795c6b757e266d911a--tojo-tasks.netlify.app`
+Go to https://618a91795c6b757e266d911a--tojo-tasks.netlify.app
